@@ -38,6 +38,7 @@ You should probably avoid these. It doesn't mean it's not possible, but will lik
 - [Rackspace Cloud](http://www.rackspace.com/cloud/) - issues with out-of-sync file timestamps and permissions
 - [1and1.com](http://1and1.com) - please see [issue raised](https://github.com/statamic/hosts/issues/12) for more details.
 
+
 ## Standard Dev Environments
 
 Wide-spread dev environments that work well (e.g. MAMP)
@@ -48,3 +49,9 @@ Wide-spread dev environments that work well (e.g. MAMP)
 - A [Vagrant for Statamic](https://github.com/bradleyflood/vagrant-statamic) setup
 - [Scotch Box](https://github.com/scotch-io/scotch-box) - 'A Vagrant LAMP Stack That Just Works'
 - Jack's iMac
+
+
+
+## Hosts that don't play at all.
+
+- [CrazyDomains](http://crazydomains.co.nz/) - "If you are going to host your website through shared hosting like Linux Hosting, the root directory is public_html, and there is no option to change. If you want to have customize public root. You can do this with Private Server."
